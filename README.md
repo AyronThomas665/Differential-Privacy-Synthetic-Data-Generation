@@ -80,8 +80,7 @@ The workflow consists of:
 │ ├── utility_metrics.R
 │ ├── disclosure_metrics.R
 │ └── analysis.R
-├── figures/
-└── LICENSE
+
 
 ```
 
